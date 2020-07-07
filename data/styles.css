@@ -254,6 +254,8 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 .paragraph1 {
   text-align:left;
 }
@@ -280,6 +282,13 @@
   text-align:left;
 }
 .table_cell1 {
+}
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
 }
 .connector {
 }
