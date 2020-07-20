@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:2006px;
+  width:1166px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,13 +16,13 @@
   position:absolute;
   z-index:0;
 }
-#u10704_div {
+#u11156_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2006px;
-  height:112px;
+  width:1166px;
+  height:532px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -34,26 +34,26 @@
   font-weight:700;
   font-style:normal;
 }
-#u10704 {
+#u11156 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2006px;
-  height:112px;
+  width:1166px;
+  height:532px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
 }
-#u10704 .text {
+#u11156 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u10704_text {
+#u11156_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
