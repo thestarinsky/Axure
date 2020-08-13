@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:10px;
+  width:566px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -15,4 +15,36 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u14404_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:566px;
+  height:56px;
+}
+#u14404 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:566px;
+  height:56px;
+  display:flex;
+  font-family:'Arial Cursiva', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:italic;
+}
+#u14404 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u14404_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
 }
