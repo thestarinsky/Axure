@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="1282.74509803922" cy="2892.54901960784" r="200" gradientTransform="matrix(7.95807864051312E-15 1 -0.999999999999985 7.95807864051301E-15 4175.29411764701 1609.8039215686 )" gradientUnits="userSpaceOnUse" id="RadialGradient44">
-      <stop id="Stop45" stop-color="#ec808d" offset="0" />
-      <stop id="Stop46" stop-color="#d9001b" offset="1" />
+    <radialGradient cx="1282.74509803922" cy="2892.54901960784" r="200" gradientTransform="matrix(7.95807864051312E-15 1 -0.999999999999985 7.95807864051301E-15 4175.29411764701 1609.8039215686 )" gradientUnits="userSpaceOnUse" id="RadialGradient130">
+      <stop id="Stop131" stop-color="#ec808d" offset="0" />
+      <stop id="Stop132" stop-color="#d9001b" offset="1" />
     </radialGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -1180 -2800 )">
-    <path d="M 1180.5 2900  A 99.5 99.5 0 0 1 1280 2800.5 A 99.5 99.5 0 0 1 1379.5 2900 A 99.5 99.5 0 0 1 1280 2999.5 A 99.5 99.5 0 0 1 1180.5 2900 Z " fill-rule="nonzero" fill="url(#RadialGradient44)" stroke="none" />
+    <path d="M 1180.5 2900  A 99.5 99.5 0 0 1 1280 2800.5 A 99.5 99.5 0 0 1 1379.5 2900 A 99.5 99.5 0 0 1 1280 2999.5 A 99.5 99.5 0 0 1 1180.5 2900 Z " fill-rule="nonzero" fill="url(#RadialGradient130)" stroke="none" />
     <path d="M 1180.5 2900  A 99.5 99.5 0 0 1 1280 2800.5 A 99.5 99.5 0 0 1 1379.5 2900 A 99.5 99.5 0 0 1 1280 2999.5 A 99.5 99.5 0 0 1 1180.5 2900 Z " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>
