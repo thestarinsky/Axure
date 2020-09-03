@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="7px" height="7px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="1625.5" y1="385.07" x2="1625.5" y2="388.85" id="LinearGradient111">
-      <stop id="Stop112" stop-color="#797979" offset="0" />
-      <stop id="Stop113" stop-color="#797979" offset="0.91" />
-      <stop id="Stop114" stop-color="#ffffff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1625.5" y1="385.07" x2="1625.5" y2="388.85" id="LinearGradient25">
+      <stop id="Stop26" stop-color="#797979" offset="0" />
+      <stop id="Stop27" stop-color="#797979" offset="0.91" />
+      <stop id="Stop28" stop-color="#ffffff" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -1622 -385 )">
-    <path d="M 1625.5 385  C 1627.46 385  1629 386.54  1629 388.5  C 1629 390.46  1627.46 392  1625.5 392  C 1623.54 392  1622 390.46  1622 388.5  C 1622 386.54  1623.54 385  1625.5 385  Z " fill-rule="nonzero" fill="url(#LinearGradient111)" stroke="none" />
+    <path d="M 1625.5 385  C 1627.46 385  1629 386.54  1629 388.5  C 1629 390.46  1627.46 392  1625.5 392  C 1623.54 392  1622 390.46  1622 388.5  C 1622 386.54  1623.54 385  1625.5 385  Z " fill-rule="nonzero" fill="url(#LinearGradient25)" stroke="none" />
     <path d="M 1625.5 385.5  C 1627.18 385.5  1628.5 386.82  1628.5 388.5  C 1628.5 390.18  1627.18 391.5  1625.5 391.5  C 1623.82 391.5  1622.5 390.18  1622.5 388.5  C 1622.5 386.82  1623.82 385.5  1625.5 385.5  Z " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>
